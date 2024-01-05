@@ -1,4 +1,4 @@
-#tableau / calcule nbr elements 0<
+#tableau / calcule nbr elements 0< 
 .data 
 E: .asciiz "entrez le nombre de case : \n"
 E2: .asciiz "entrez les element du tableau : \n"
